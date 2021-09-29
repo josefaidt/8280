@@ -1,0 +1,18 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "828026fefaa226fefaa2",
+  "functionName": "828026fefaa226fefaa2PostConfirmation",
+  "resourceName": "828026fefaa226fefaa2PostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/Users/josef/.config/yarn/global/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "828026fefaa226fefaa2PostConfirmation",
+  "skipEdit": true,
+  "GROUP": "users",
+  "enableCors": false
+}
